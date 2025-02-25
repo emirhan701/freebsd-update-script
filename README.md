@@ -21,13 +21,13 @@ Bu betik, FreeBSD sisteminizi güncellemek için tasarlanmıştır. Şunları ya
 1.  Betiği indirin ve çalıştırılabilir yapın:
 
     ```bash
-    chmod +x update_freebsd.sh
+    chmod +x update.sh
     ```
 
 2.  Betiği yönetici ayrıcalıklarıyla çalıştırın:
 
     ```bash
-    sudo ./update_freebsd.sh
+    sudo ./update.sh
     ```
 
 ## 🇬🇧 English Description
@@ -49,13 +49,13 @@ This bash script is designed to update your FreeBSD system. It performs the foll
 1.  Make the script executable:
 
     ```bash
-    chmod +x update_freebsd.sh
+    chmod +x update.sh
     ```
 
 2.  Run the script with administrative privileges:
 
     ```bash
-    sudo ./update_freebsd.sh
+    sudo ./update.sh
     ```
 
 ##
